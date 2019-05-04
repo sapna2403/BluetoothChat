@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothChat</string>
+    <string name="none_paired" />
+    <string name="none_found" />
+</resources>
